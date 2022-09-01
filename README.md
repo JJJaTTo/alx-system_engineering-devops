@@ -4,4 +4,5 @@ My third alx rep
 1-listit #list the dir
 2-bring_me_home #set working dir to home
 3-listlongformat #ls -l
-4-listmorefiles #ls -ao
+4-listmorefiles #ls -al
+5-listfilesdigitonly #ls -als

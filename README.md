@@ -6,4 +6,4 @@ My third alx rep
 3-listlongformat #ls -l
 4-listmorefiles #ls -al
 5-listfilesdigitonly #ls -ls
-6-my_first_directory #mkdir my_first_directory
+6-my_first_directory # -p /temp/my_first_directory

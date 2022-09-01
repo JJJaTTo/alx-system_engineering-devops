@@ -5,4 +5,5 @@ My third alx rep
 2-bring_me_home #set working dir to home
 3-listlongformat #ls -l
 4-listmorefiles #ls -al
-5-listfilesdigitonly #ls -lsa
+5-listfilesdigitonly #ls -ls
+6-my_first_directory #mkdir my_first_directory
